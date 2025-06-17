@@ -167,7 +167,7 @@ mysql -h your-rds-endpoint.region.rds.amazonaws.com -P 3306 -u admin -p < databa
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AbyanDimas/react-product-crud
 cd react-product-crud
 ```
 
